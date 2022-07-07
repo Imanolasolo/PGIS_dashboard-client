@@ -4,7 +4,7 @@ import PersonOutlinedIcon from '@mui/icons-material/PersonOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import LogoutOutlinedIcon from '@mui/icons-material/LogoutOutlined';
 import MedicalServicesIcon from '@mui/icons-material/MedicalServices';
-
+import { link } from "react-router-dom";
 const Sidebar = () => {
     return (
         <div className="sidebar">
